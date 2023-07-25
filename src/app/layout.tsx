@@ -5,7 +5,7 @@ import { Inter } from "next/font/google";
 import Footer from "@/components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
-
+// adding comment form deployment
 export const metadata: Metadata = {
   title: "Ziplink | Unlock Your Link Potential",
   description: "Unlock Your Link Potential",
